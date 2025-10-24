@@ -1,5 +1,5 @@
 # Spicy colors
-Ui Ux admin panel colors.
+Ui admin panel colors.
 
 ## Colors
 
